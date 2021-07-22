@@ -1,3 +1,3 @@
 # from-Q-Z
-calculated physics
+computation physics
 https://github.com/qzhu2017/ComputationalPhysics300.git
